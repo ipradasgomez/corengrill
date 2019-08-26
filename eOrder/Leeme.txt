@@ -1,0 +1,5 @@
+Lanzar con node index.js 
+
+o con 
+
+npx nodemon
